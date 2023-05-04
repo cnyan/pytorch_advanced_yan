@@ -1,0 +1,10 @@
+0_datasets/
+0_pre_model/
+1_image_classification/tensorboardX/
+
+2_objectdection/data/
+2_objectdection/weights/
+2_objectdection/log_output.csv
+
+3_semantic_segmentation/data
+3_semantic_segmentation/weights
