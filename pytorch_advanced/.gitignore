@@ -5,6 +5,7 @@
 2_objectdection/data/
 2_objectdection/weights/
 2_objectdection/log_output.csv
+2_objectdection/utils/__pycache__/
 
 3_semantic_segmentation/data
 3_semantic_segmentation/weights
